@@ -1,4 +1,4 @@
-- 👋 Hi, i’m Xavier or XavierWasTaken. Thanks for visiting my Github!
+- 👋 Hi, I’m Xavier or XavierWasTaken. Thanks for visiting my Github!
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C at 42Porto.
 - 🖥️ I'll be continually uploading my finished projects at 42 to this page.
