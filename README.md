@@ -1,4 +1,4 @@
-- 👋 Hey I'm Xavier
+- 👋 Hey, I'm Xavier.
 - 👀 I’m interested in game and software development.
 - 🌱 I’m currently learning C#.
 - 🖥️ I'll be uploading my finished projects to this page.
