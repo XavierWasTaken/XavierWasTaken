@@ -1,8 +1,8 @@
 - 👋 Hey, I'm Xavier.
 - 👀 I’m interested in game and software development.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C++ and C#
 - 🖥️ I'll be uploading my finished projects to this page.
-- 📫 How to reach me: feel free to send me an email @pedromrxavier@gmail.com or a dm on discord @xavierwastaken!
+- 📫 How to reach me: feel free to send me an email @ pedromrxavier@gmail.com
 
 <!---
 XavierWasTaken/XavierWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
